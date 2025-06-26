@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470662382453",
+    "project_id": "ar-muzem",
+    "storage_bucket": "ar-muzem.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470662382453:android:76cb04e1bd9efe285f093c",
+        "android_client_info": {
+          "package_name": "com.example.museum_ar_guide"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAke6VvlZ1AsxQpk36qMtw6sf_TP4ysctg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
